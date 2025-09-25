@@ -1,4 +1,3 @@
-# forecasting-renewable-electricity
 Using Time series models(ARIMA and SARIMA) to forecast renewable energy production in Australia
 
 # Dataset: Monthly Renewable Electricity Production in Australia (2010–2025)
